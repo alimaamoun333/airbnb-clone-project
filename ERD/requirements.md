@@ -98,5 +98,10 @@ The ER diagram will include:
 
 
 
-**Export format:**  
-PNG image to be saved in `ERD/er_diagram.png`
+
+## Entity-Relationship Diagram
+
+![ER Diagram](ERN/er_diagram.png)
+
+This diagram shows all entities, their attributes, and the relationships.
+
